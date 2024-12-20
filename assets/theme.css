@@ -547,7 +547,11 @@ div.pswp__img--placeholder {
 }
 
 /*! flickity */
-
+.carousel-cell {
+  width: 50%; /* half-width */
+  height: 160px;
+  margin-right: 10px;
+}
 .flickity-enabled {
   position: relative
 }
