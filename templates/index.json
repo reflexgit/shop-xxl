@@ -29,6 +29,7 @@
         "image_9m9DQn": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/07f9f099-3418-4226-9233-034e21bf39a6.jpg",
             "heading": "Image slide",
             "heading_size": "title-lg tracking-heading",
             "heading_tag": "h2",
@@ -42,6 +43,7 @@
         "image_73GRxw": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/oie_transparent.png",
             "heading": "Image slide",
             "heading_size": "title-lg tracking-heading",
             "heading_tag": "h2",
