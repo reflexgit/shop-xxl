@@ -15,6 +15,7 @@
         "image_w9R8cM": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/slider_breit_222.png",
             "heading": "Image slide",
             "heading_size": "title-lg tracking-heading",
             "heading_tag": "h2",
