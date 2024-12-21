@@ -26,6 +26,20 @@
             "button_icon": false
           }
         },
+        "image_XbkUUE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Slider_1.png",
+            "heading": "Image slide",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_external": false,
+            "button_icon": false
+          }
+        },
         "image_9m9DQn": {
           "type": "image",
           "settings": {
@@ -43,7 +57,7 @@
         "image_73GRxw": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/oie_transparent.png",
+            "image": "shopify://shop_images/alle_sorten.png",
             "heading": "Image slide",
             "heading_size": "title-lg tracking-heading",
             "heading_tag": "h2",
@@ -57,6 +71,7 @@
       },
       "block_order": [
         "image_w9R8cM",
+        "image_XbkUUE",
         "image_9m9DQn",
         "image_73GRxw"
       ],
