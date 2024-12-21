@@ -16,7 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Selling_Point_-_Kopie.webp",
-            "heading": "Image slide",
+            "heading": "",
             "heading_size": "title-lg tracking-heading",
             "heading_tag": "h2",
             "button_label": "",
@@ -30,7 +30,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Slider_1.png",
-            "heading": "Image slide",
+            "heading": "",
             "heading_size": "title-lg tracking-heading",
             "heading_tag": "h2",
             "button_label": "",
@@ -44,7 +44,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Breit_Plug_2.png",
-            "heading": "Image slide",
+            "heading": "",
             "heading_size": "title-lg tracking-heading",
             "heading_tag": "h2",
             "button_label": "",
@@ -58,7 +58,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/alle_sorten.png",
-            "heading": "Image slide",
+            "heading": "",
             "heading_size": "title-lg tracking-heading",
             "heading_tag": "h2",
             "button_label": "",
