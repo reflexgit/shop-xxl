@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -5,6 +14,7 @@
       "disabled": true,
       "settings": {
         "heading_size": "title-xl",
+        "heading_alignment": "text-left",
         "heading_tag": "h1",
         "text_size": "text-lg md:text-2xl",
         "padding_top": 72,
@@ -30,7 +40,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>We'd love to hear from you. Our team is here to help. <br\/>Let your customers get in touch with you by filling out the email form below.</p>",
+            "text": "<p>We'd love to hear from you. Our team is here to help. <br/>Let your customers get in touch with you by filling out the email form below.</p>",
             "text_size": "subtext-lg",
             "text_max_size": 32,
             "text_font": "body",
@@ -50,11 +60,13 @@
         "heading": "",
         "heading_size": "title-md",
         "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_width": "small",
         "heading_tag": "h2",
         "subheading": "",
         "description": "",
         "button_label": "",
         "button_link": "",
+        "button_external": false,
         "button_icon": true,
         "highlighted_text": "none",
         "highlighted_scribble": "circle",
@@ -85,25 +97,18 @@
     "contact-form": {
       "type": "contact-form",
       "blocks": {
-        "contact-1": {
-          "type": "contact",
-          "settings": {
-            "heading": "Address",
-            "text": "<p><a href=\"#\" title=\"mailto:shop@yourstore.com\">shop@yourstore.com</a></p>"
-          }
-        },
         "contact-2": {
           "type": "contact",
           "settings": {
             "heading": "Email",
-            "text": "<p><a href=\"#\" title=\"mailto:contact@yourstore.com\">contact@yourstore.com</a><br\/><a href=\"#\" title=\"mailto:sales@yourstore.com\">sales@yourstore.com</a></p>"
+            "text": "<p>kontakt@xxl-vape.de<br/></p>"
           }
         },
         "contact-3": {
           "type": "contact",
           "settings": {
             "heading": "Phone",
-            "text": "<p><a href=\"#\" title=\"tel:+33 (0) 31-305-210\">+33 (0) 31-305-210<br\/></a>mo – fri: 09:00 – 17:00</p>"
+            "text": "<p><a href=\"#\" title=\"tel:+33 (0) 31-305-210\">+49 4461 900 9598<br/></a>Mo-Fr: 11-17 Uhr</p>"
           }
         },
         "media": {
@@ -140,7 +145,6 @@
         }
       },
       "block_order": [
-        "contact-1",
         "contact-2",
         "contact-3",
         "media",
@@ -156,6 +160,7 @@
         "description": "",
         "button_label": "",
         "button_link": "",
+        "button_external": false,
         "button_icon": true,
         "highlighted_text": "none",
         "highlighted_scribble": "circle",
