@@ -465,6 +465,7 @@
         "image-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/BLACKBERRYICEa206.jpg",
             "subheading": "",
             "heading": "Before image",
             "content_position": "end",
@@ -474,6 +475,7 @@
         "image-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/blackberrypkg.png",
             "subheading": "",
             "heading": "After image",
             "content_position": "end",
